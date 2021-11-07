@@ -8,4 +8,4 @@
   * [Ansible - Getting Started](sysadmin/ansible/ansible-getting-started.md)
 * [API](sysadmin/api/README.md)
   * [API - Meraki](sysadmin/api/api-meraki.md)
-
+* [Openstack](sysadmin/openstack.md)
